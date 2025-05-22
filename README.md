@@ -108,5 +108,6 @@ MONITOR                 # Monitorar operações em tempo real
 - **Permissões Docker**: Execute com `sudo` ou adicione seu usuário ao grupo docker
 - **Erros Python**: Confira se o ambiente virtual está ativado
 
-## 📄 Licença
-Este projeto é para fins educacionais e de avaliação.
+## Membros
+- Luana Sousa Matos RM552621
+- Nicolas Martins RM553478
